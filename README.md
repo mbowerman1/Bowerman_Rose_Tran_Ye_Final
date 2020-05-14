@@ -1,65 +1,20 @@
-# Analyzing Vacant Building Notices and Improving Neighborhood Health in Baltimore
+# Improving Neighborhood Health in Baltimore City: An Analysis of Vacant Buildings and the Efficacy of DHCD Interventions
 
-## Background and Business Question
+*Project Title
+Your project’s title should allude to the project statement and your recommendations, but not be too long. Your title will give the initial context for what the reader is about to digest, so make sure that this is clear and catchy.*
 
+*Main Pitch/Summary/Abstract
+This is your pitch for this project. If you ended up in an elevator with the Baltimore City Mayor, how would you explain the project and your findings in less than 4 sentences/1 minute? Use the midterm project template to help with this.* 
 
-## Data Questions
-1. How many VBNs are being put back on the market, then end up back on the VBN list within 1-year increments over a 5-year period? Where is this most likely to occur?
-2. Are there particular DHCD interventions – homeowner incentive grants, tax credits, etc. - that is more likely to keep a building off the VBN list?
-3. How has the concentration of VBNs changed over time?
-4. Is there a correlation between VBNs and Demolitions in a Neighborhood?
-5. Are there any properties DHCD has spent capital on that then gets on the VBN list within five years?
+*This should briefly touch on things that:
+Help answer the Baltimore City team’s initial questions in their problem statement
+Mention additional department or division needs based on your findings
+Provide concrete steps and/or tools for the Baltimore City team to use this information in their future work*
 
-## Data Answer and Visualizations
-### VBN Recurrence
-* 5,938 VBNs were recurrences, of which 2,314 recurred five years or more after the initial VBN's close.
-* The top __FIVE?__ neighborhoods where recurrences happened were __NEIGHBORHOODS__
-* According to the cluster analysis, __PLACEHOLDER__
-* Main takeaway
+*__The title and main pitch + any relevant data visualizations should the the only content in your final project GitHub README__*
 
-In order to determine which properties were reappearing on the VBN list after being put back on the market, a unique ID was created for each address (e.g. 2110NFULTONAVE for the property at 2110 N. Fulton Ave.) and the dataset was organized first chronologically using the date of issue, "DateNotice," and then alpha-numberically using these IDs. 92 VBNs had no street address attached and were excluded from this analysis. The following nested IF statement was then used to count all properties which recurred in the dataset for reasons other than "Ownership Changed."
+## Abstract
+Placeholder
 
-VBN_Repeats = IF(G3=G2,IF[YEAR(I3)=YEAR(AD2),0,IF{M2="OWNERSHIP CHANGED",0,1}],0),
-
-where 1 indicates a VBN recurrence, 0 is all other possibilities such as a new property or an extension of the preceding VBN, "VBN_Repeats" is the column heading, G3 is the unique ID of the property in question (row 3), G2 is the unique ID of the preceding property in the dataset (row 2), I3 is the issue date of the VBN in row 3, AD2 is the close date of the VBN in row 2, and M2 is the reason the row 2 VBN was closed.
-
-This produced __6,661 results__. In a separate table, VLOOKUP was used to create a table of issue date and close date for each VBN recurrence, as well as those of the initial VBN issued for each property. The years elapsed between the initial close date and the issue date of each recurence were then calculated. For 722 VBN recurences, the years elasped were less than or equal to zero. Another recurence had no close date. Excluding these 723 properties, __5,938 VBN recurrences__ remained, of which __2,314 were reissued 5 years of more after the close of the initial VBN__. The top __FIVE?__ neighborhoods where recurrences happened were __NEIGHBORHOODS__.
-
-___Concessions to be aware of: Inflation of years elapsed if initial VBN was cancelled due to ownership change and VBN was renewed before being officially abated/cancelled.___
-
-Additionally, a cluster analysis of the VBN count per neighborhood was also performed. 
-
-### DHCD Interventions
-* Main takeaway
-* Main takeaway
-* Main takeaway
-
-Explanation
-
-### VBN Concentration
-* Main takeaway
-* Main takeaway
-* Main takeaway
-
-Explanation
-
-### VBN and Demolitions Correlation
-* Main takeaway
-* Main takeaway
-* Main takeaway
-
-Explanation
-
-### VBN Recurrence and DHCD Capital
-* Main takeaway
-* Main takeaway
-* Main takeaway
-
-Explanation
-
-## Business Answer and Recommendations and Impact for Baltimore City
-* Main takeaway
-* Main takeaway
-* Main takeaway
-
-Explanation
+## Visualizations
+Placeholder
