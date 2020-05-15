@@ -16,15 +16,14 @@ Provide concrete steps and/or tools for the Baltimore City team to use this info
 ## Abstract
 Placeholder
 
-## Visualizations
-### VBN Recurrences
+## VBN Recurrences Analysis
 ![](Images/Count_Rec_(2).PNG)   ![](Images/Distr_Yrs_Elapsed_(2).PNG)
 ![](Images/Recurrences_vs_Total_Closed.PNG)
 
-Top 10 Neighborhoods by VBN Recurrence Count:
+Top 10 Neighborhoods by VBN Recurrence Count, with Cluster Analysis Results:
 ![](Images/Top10_Recurrence.PNG)
 
-### Cluster Analysis
+## Cluster Analysis
 ![](Images/Top20_Nhoods.PNG)
 
 Example of Z-Scores per Cluster:
