@@ -17,4 +17,12 @@ Provide concrete steps and/or tools for the Baltimore City team to use this info
 Placeholder
 
 ## Visualizations
-Placeholder
+### VBN Recurrences
+![](Images/Count_Rec (2).PNG) ![](Images/Distr_Yrs_Elapsed.PNG)
+![](Images/Recurrences_vs_Total_Closed.PNG)
+![](Images/Top10_Recurrence.PNG)
+
+### Cluster Analysis
+![](Images/Top20_Nhoods.PNG)
+![](Images/Cluster_Table_Example.PNG)
+![](Images/Nhoods_per_Cluster.PNG)
