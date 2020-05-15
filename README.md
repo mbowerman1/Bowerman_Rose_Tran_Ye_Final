@@ -18,8 +18,7 @@ Placeholder
 
 ## Visualizations
 ### VBN Recurrences
-![](Images/Count_Rec_(2).PNG)
-![](Images/Distr_Yrs_Elapsed.PNG)
+![](Images/Count_Rec_(2).PNG)   ![](Images/Distr_Yrs_Elapsed.PNG)
 ![](Images/Recurrences_vs_Total_Closed.PNG)
 ![](Images/Top10_Recurrence.PNG)
 
