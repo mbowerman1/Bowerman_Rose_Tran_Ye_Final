@@ -23,9 +23,13 @@ Placeholder
 Top 10 Neighborhoods by VBN Recurrence Count, with Cluster Analysis Results:
 ![](Images/Top10_Recurrence.PNG)
 
+
 ## Cluster Analysis
 ![](Images/Top20_Nhoods.PNG)
 
 Example of Z-Scores per Cluster:
 ![](Images/Cluster_Table_Example.PNG)
 ![](Images/Nhoods_per_Cluster.PNG)
+
+
+## Placeholder
