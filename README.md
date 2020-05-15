@@ -1,10 +1,8 @@
 # Improving Neighborhood Health in Baltimore City
 ## *An Analysis of Vacant Buildings and the Efficacy of DHCD Interventions*
 
+## Pitch
 __[Copy pitch here once complete]__
-
-## Abstract
-Placeholder
 
 ## VBN Recurrences Analysis
 ![](Images/Count_Rec_(2).PNG)   ![](Images/Distr_Yrs_Elapsed_(2).PNG)
