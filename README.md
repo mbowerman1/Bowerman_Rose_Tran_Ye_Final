@@ -1,4 +1,5 @@
-# Improving Neighborhood Health in Baltimore City: An Analysis of Vacant Buildings and the Efficacy of DHCD Interventions
+# Improving Neighborhood Health in Baltimore City
+## *An Analysis of Vacant Buildings and the Efficacy of DHCD Interventions*
 
 *Project Title
 Your project’s title should allude to the project statement and your recommendations, but not be too long. Your title will give the initial context for what the reader is about to digest, so make sure that this is clear and catchy.*
