@@ -21,8 +21,8 @@ Example of Z-Scores per Cluster:
 
 
 ## Linear Regression and Correlation Analysis
-![.](Images/LinearRegression2014Initial.PNG)
-![.](Images/LinearRegression2014Final.PNG)
-![.](Images/Homtax_vs_Vacancy_Graph.PNG)
-![.](Images/Correlation2014.PNG)
-![.](Images/Correlation2011.PNG)
+![.](Images/LinearRegression2014Initial.png)
+![.](Images/LinearRegression2014Final.png)
+![.](Images/Homtax_vs_Vacancy_Graph.png)
+![.](Images/Correlation2014.png)
+![.](Images/Correlation2011.png)
