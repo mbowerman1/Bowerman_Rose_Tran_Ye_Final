@@ -26,3 +26,9 @@ Example of Z-Scores per Cluster:
 ![.](Images/Homtax_vs_Vacancy_Graph.png)
 ![.](Images/Correlation2014.png)
 ![.](Images/Correlation2011.png)
+
+##
+
+### VLookup
+![alt](https://github.com/mbowerman1/VBN_Biz_Analytics_Final/blob/master/Images/DHCD%20Capital.png)
+
