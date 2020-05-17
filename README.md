@@ -30,5 +30,5 @@ Example of Z-Scores per Cluster:
 ## VBN Recurrence and DHCD Capital
 ### VLookup
 ![alt](https://github.com/mbowerman1/VBN_Biz_Analytics_Final/blob/master/Images/DHCD%20Capital.png)
-![alt]()
+![alt](https://github.com/mbowerman1/VBN_Biz_Analytics_Final/blob/master/Images/VBN%20Recurrence.png)
 
